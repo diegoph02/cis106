@@ -1,0 +1,15 @@
+# ------- #
+Basic Information about the System
+# ------- #
+Total number of users is
+48
+----------
+Total number of users that can log in is
+2
+----------
+Memory information
+              total        used        free      shared  buff/cache   available
+Mem:        2025204     1335584      139776      107004      549844      427628
+Swap:       2097148     1588644      508504
+----------
+Linux diegoph-VirtualBox 5.13.0-37-generic #42~20.04.1-Ubuntu SMP Tue Mar 15 15:44:28 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
